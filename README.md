@@ -5,6 +5,8 @@ Note: This repo is just a joke, please do NOT take it seriously! (maybe not a jo
 
 # Examples
 
+All of these are Raklee 2.x btw
+
 <img width="361" height="121" alt="image" position=center src="https://github.com/user-attachments/assets/c967b728-d06f-4ffe-8618-5b194f84979c" />
 
 <img width="439" height="501" alt="image" position=center src="https://github.com/user-attachments/assets/ee0df3e5-d4e1-43e0-a4ad-417ba94f8047" />
@@ -37,17 +39,27 @@ Coming soon™
 ### Raklee 2.4
 Coming soon™
 
+### Raklee 2.5 - 2.9
+Go wait for a few month if you really want that.
+
+### Raklee 3.0
+Go wait for a whole year if you really want that.
+
 # FAQ
 ### What the fuck is a Raklee?
 A person.
 ### Latest Raklee version?
 It's 2.2 (as of January 2026)
+### When the fuck will there a Raklee 3.0?
+Go wait until Raklee 2.9 (which is probably March 2026, who knows?)
+### Do we have Raklee 2.0 before GTA 6?
+Yes.
 ### Does Raklee have updates?
 Yes.
 ### Discord username and user ID for Raklee 2.x?
 myangelfubuki / 1182279994714619934
 
-Username may change (lol)
+Username may change but not user ID (lol)
 ### Why does this repo exist?
 Why not? It all started out of thin air.
 ### Do you accept pull requests?
