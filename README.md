@@ -3,7 +3,7 @@ This repo talks about "Raklee" (bro has multiple versions wtf)
 
 Note: This repo is just a joke, please do NOT take it seriously! (maybe not a joke for Raklee 2.x, who knows?)
 
-# Examples:
+# Examples
 
 <img width="361" height="121" alt="image" position=center src="https://github.com/user-attachments/assets/c967b728-d06f-4ffe-8618-5b194f84979c" />
 
