@@ -1,5 +1,5 @@
 # Raklee
-This repo talks about "Raklee" (bro has multiple versions wtf)
+This repo contains a README.md file about "Raklee" (bro has multiple versions wtf)
 
 Note: This repo is just a joke, please do NOT take it seriously! (maybe not a joke for Raklee 2.x, who knows?)
 
@@ -52,12 +52,14 @@ A person.
 It's 2.2 (as of January 2026)
 ### When the fuck will there a Raklee 3.0?
 Go wait until Raklee 2.9 (which is probably March 2026, who knows?)
-### Do we have Raklee 2.0 before GTA 6?
+### Do we have Raklee 2.0 before GTA 6 or Half-Life 3?
 Yes.
 ### Does Raklee have updates?
 Yes.
 ### Is Raklee 2.x a seperate person?
-Kinda. Bro is acting like Raklee 1.0 😭
+Kinda. Bro is acting like Raklee 1.0 😭 (also for those who is named ritsu gt one, kindly don't say he's NOT Raklee, thank you! :3 /s)
+### When will there an AI model based off Raklee 2.x?
+I don't know, maybe never. Who knows?
 ### Discord username and user ID for Raklee 2.x?
 myangelfubuki / 1182279994714619934
 
