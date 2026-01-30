@@ -34,7 +34,9 @@ we moved to github.com
 bro can now act like a normal person but will slip to raklee 2.2 instantly anyway 🗿
 
 ### Raklee 2.3
-Coming soon™
+now he knows how to react on messages chat
+
+[Image coming soon! :3]
 
 ### Raklee 2.4
 Coming soon™
