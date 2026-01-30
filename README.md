@@ -15,30 +15,40 @@ Note: This repo is just a joke, please do NOT take it seriously! (maybe not a jo
 
 
 # Changelogs
-### Raklee 1.0: 
+### Raklee 1.0
 First release.
 
-### Raklee 2.0:
+### Raklee 2.0
 Second release. Different username.
 
-### Raklee 2.1:
+### Raklee 2.1
 now sleeps at 12am 💀 (and maybe other times)
 
 bro played hrsd for once in osu!
 
-### Raklee 2.2:
+### Raklee 2.2
 we moved to github.com
 
 bro can now act like a normal person but will slip to raklee 2.2 instantly anyway 🗿
+
+### Raklee 2.3
+Coming soon™
+
+### Raklee 2.4
+Coming soon™
 
 # FAQ
 ### What the fuck is a Raklee?
 A person.
 ### Latest Raklee version?
-It's 2.2
+It's 2.2 (as of January 2026)
 ### Does Raklee have updates?
 Yes.
 ### Discord username and user ID for Raklee 2.x?
 myangelfubuki / 1182279994714619934
 
 Username may change (lol)
+### Why does this repo exist?
+Why not? It all started out of thin air.
+### Do you accept pull requests?
+I accept any pull requests, as long it's not shit like whoever invented "EA Sports"
