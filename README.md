@@ -5,13 +5,13 @@ Note: This repo is just a joke, please do NOT take it seriously! (maybe not a jo
 
 # Examples:
 
-<img width="361" height="121" alt="image" src="https://github.com/user-attachments/assets/c967b728-d06f-4ffe-8618-5b194f84979c" />
+<img width="361" height="121" alt="image" position=center src="https://github.com/user-attachments/assets/c967b728-d06f-4ffe-8618-5b194f84979c" />
 
-<img width="439" height="501" alt="image" src="https://github.com/user-attachments/assets/ee0df3e5-d4e1-43e0-a4ad-417ba94f8047" />
+<img width="439" height="501" alt="image" position=center src="https://github.com/user-attachments/assets/ee0df3e5-d4e1-43e0-a4ad-417ba94f8047" />
 
-<img width="425" height="316" alt="image" src="https://github.com/user-attachments/assets/8188c8fc-d78c-4bb0-adbd-ddb87aa4e2d5" />
+<img width="425" height="316" alt="image" position=center src="https://github.com/user-attachments/assets/8188c8fc-d78c-4bb0-adbd-ddb87aa4e2d5" />
 
-<img width="427" height="501" alt="image" src="https://github.com/user-attachments/assets/d26fa1db-ce21-4757-9270-0c04c6439301" />
+<img width="427" height="501" alt="image" position=center src="https://github.com/user-attachments/assets/d26fa1db-ce21-4757-9270-0c04c6439301" />
 
 
 # Changelogs
