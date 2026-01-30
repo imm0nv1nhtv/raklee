@@ -56,6 +56,8 @@ Go wait until Raklee 2.9 (which is probably March 2026, who knows?)
 Yes.
 ### Does Raklee have updates?
 Yes.
+### Is Raklee 2.x a seperate person?
+Kinda. Bro is acting like Raklee 1.0 😭
 ### Discord username and user ID for Raklee 2.x?
 myangelfubuki / 1182279994714619934
 
