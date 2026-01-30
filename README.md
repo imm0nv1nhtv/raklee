@@ -36,6 +36,8 @@ bro can now act like a normal person but will slip to raklee 2.2 instantly anywa
 A person.
 ### Latest Raklee version?
 It's 2.2
+### Does Raklee have updates?
+Yes.
 ### Discord username and user ID for Raklee 2.x?
 myangelfubuki / 1182279994714619934
 
