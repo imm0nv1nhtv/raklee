@@ -36,7 +36,8 @@ bro can now act like a normal person but will slip to raklee 2.2 instantly anywa
 ### Raklee 2.3
 now he knows how to react on messages chat
 
-[Image coming soon! :3]
+<img width="745" height="185" alt="image" src="https://github.com/user-attachments/assets/5f27e8e8-06a8-4eb6-b74d-f00bc13008ca" />
+
 
 ### Raklee 2.4
 Coming soon™
