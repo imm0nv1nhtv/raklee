@@ -38,3 +38,5 @@ A person.
 It's 2.2
 ### Discord username and user ID for Raklee 2.x?
 myangelfubuki / 1182279994714619934
+
+Username may change (lol)
