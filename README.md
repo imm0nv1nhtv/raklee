@@ -57,7 +57,7 @@ Yes.
 ### Does Raklee have updates?
 Yes.
 ### Is Raklee 2.x a seperate person?
-Kinda. Bro is acting like Raklee 1.0 😭 (also for those who is named ritsu gt one, kindly don't say he's NOT Raklee, thank you! :3 /s)
+Kinda. Bro is acting like Raklee 1.0 😭 (also for those who is named ritsu gt1, kindly don't say he's NOT Raklee, thank you! :3 /s)
 ### When will there an AI model based off Raklee 2.x?
 I don't know, maybe never. Who knows?
 ### Discord username and user ID for Raklee 2.x?
