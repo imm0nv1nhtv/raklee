@@ -1,7 +1,7 @@
 # Raklee
 This repo talks about "Raklee" (bro has multiple versions wtf)
 
-Note: This repo is just a joke, please do NOT take it seriously!
+Note: This repo is just a joke, please do NOT take it seriously! (maybe not a joke for Raklee 2.x, who knows?)
 
 # Examples:
 
