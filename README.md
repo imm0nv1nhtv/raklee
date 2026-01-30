@@ -51,4 +51,6 @@ Username may change (lol)
 ### Why does this repo exist?
 Why not? It all started out of thin air.
 ### Do you accept pull requests?
-I accept any pull requests, as long it's not shit like whoever invented "EA Sports"
+I accept any pull requests, as long it's not shit like whoever invented "EA Sports" (i hate paywalls btw)
+### Do you accept any issues?
+Yes. As long you don't write it like you're a kid who uses GitHub for the first time and as long it's not shit like whoever invented "EA Sports" (i hate paywalls btw)
