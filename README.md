@@ -10,10 +10,12 @@ Second release. Different username.
 
 ### Raklee 2.1:
 now sleeps at 12am 💀 (and maybe other times)
+
 bro played hrsd for once in osu!
 
 ### Raklee 2.2:
 we moved to github.com
+
 bro can now act like a normal person but will slip to raklee 2.2 instantly anyway 🗿
 
 # FAQ
