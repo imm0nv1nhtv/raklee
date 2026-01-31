@@ -40,7 +40,7 @@ now he knows how to react on messages chat
 
 
 ### Raklee 2.4
-Coming soon™
+Coming soon™ (probably in a few days)
 
 ### Raklee 2.5 - 2.9
 Go wait for a few month if you really want that.
