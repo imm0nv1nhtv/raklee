@@ -1,5 +1,5 @@
 # Raklee
-This repo contains a README.md file about "Raklee" (bro has multiple versions wtf)
+This repo contains a README.md file about "Raklee" (bro has multiple versions wtf) and a guide on how to become Raklee 2.0 (lol)
 
 Note: This repo is just a joke, please do NOT take it seriously! (maybe not a joke for Raklee 2.x, who knows?)
 
